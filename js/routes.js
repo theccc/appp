@@ -50,10 +50,10 @@ angular.module('app.routes', [])
     
       
         
-    .state('duraçãODoContrato', {
+    .state('duracaoDoContrato', {
       url: '/page5',
-      templateUrl: 'templates/duraçãODoContrato.html',
-      controller: 'duraçãODoContratoCtrl'
+      templateUrl: 'templates/duracaoDoContrato.html',
+      controller: 'duracaoDoContratoCtrl'
     })
         
       
